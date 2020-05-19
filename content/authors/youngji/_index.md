@@ -44,7 +44,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Professors
 ---
 
 My research interests have been focused on structuring and delivering health information through an informatics-based approach to diverse groups, especially to minority populations. Especially, my research has engaged community residents to assess their needs and understand their circumstances in order to empower them to manage their own health through health communication interventions. Methodologically, I have extensive experience in mining big data to reveal hidden relationships between agents. 
