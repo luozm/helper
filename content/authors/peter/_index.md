@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yu Chi
+title: Peter Brusilovsky
 
 # Username (this should match the folder name)
 authors:
-- yu
+- peter
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student in Information Science
+role: Professor in Information Science
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,6 @@ organizations:
 bio: 
 
 interests:
-- Natural Language Processing
-- Knowledge Representation
-- Machine Learning in Health Informatics
 
 education:
 
@@ -47,6 +44,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Principal Investigators
 ---
-

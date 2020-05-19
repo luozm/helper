@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yu Chi
+title: Daqing He
 
 # Username (this should match the folder name)
 authors:
-- yu
+- daqing
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student in Information Science
+role: Professor in Information Science
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,6 @@ organizations:
 bio: 
 
 interests:
-- Natural Language Processing
-- Knowledge Representation
-- Machine Learning in Health Informatics
 
 education:
 
@@ -47,6 +44,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Principal Investigators
 ---
 
+I am a Professor at the School of Information Sciences (iSchool) , the University of Pittsburgh. I also have academic affiliation with the Intelligent Systems Program, an interdisciplinary academic unit focusing on research and education on Artificial Intelligence. I am the director of a research lab called Information Retrieval, Integration and Synthesis. I was the chair of SIS Council, the governing body for the iSchool, between 2012 and 2014. I currently serve on the editorial board of SCI/SSCI indexed journals “Information Processing and Management”, “Internet Research” and “Aslib Journal of Information Management”.

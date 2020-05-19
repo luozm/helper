@@ -1,36 +1,41 @@
 ---
 # Display name
-title: HELPeR
+title: Zhimeng Luo
 
 # Username (this should match the folder name)
 authors:
-- admin
+- zhimeng
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Health e-Librarian with Personalized Recommender
+role: PhD student in Information Science
 
 # Organizations/Affiliations
 organizations:
 - name: University of Pittsburgh
-  url: ""
+  url: "http://sci.pitt.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Health e-Librarian with Personalized Recommender.
+bio: My research interests include Natural Language Processing, Machine Learning, and Knowledge Representation.
 
 interests:
-- Health Informatics
-- Information Retrieval
-- Artificial Intelligence
+- Natural Language Processing
+- Knowledge Representation
+- Machine Learning in Health Informatics
 
 education:
   courses:
-  - course: School of Nursing
+  - course: PhD in Information Science
     institution: University of Pittsburgh
-  - course: School of Computing and Information
+    year: Est. 2024
+  - course: MS in Information Science
     institution: University of Pittsburgh
+    year: 2019
+  - course: BS in Statistics
+    institution: Huazhong University of Science and Technology
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,7 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:zhl123@pitt.edu  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/zhimengluo/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=s4um6H8AAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/luozm
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -53,10 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-# - Researchers
-# - Visitors
+- Grad Students
 ---
 
-**The overall goal of this proposal is to build and implement a “Health E-Librarian with Personalized Recommendations (HELPeR)” - a personalized information access system with a hybrid recommender engine that adapts to individual aspects of the patient.** This would be the first implementation of a patientcentered system that can serve as a virtual health librarian. The HELPeR recommender engine is innovative in its capacity to integrate three dimensions of an individual patient (i.e., information needs based on the user’s profile, the user’s unique expressed information interests, and the level of user’s disease-related knowledge) to direct patients to highly personalized sets of information, that are high quality, trustworthy, and appropriate for each patient’s knowledge level. As patients select, manage and organize the recommended information, the engine’s capacity for personalization is continuously refined and improved. 
-
-We have selected ovarian cancer (OvCa) as our initial population as it represents a complex disease with multiple tumor types and a range of prognoses, requiring personalized treatments and supportive care needs that evolve over time. Our team has over 15 years of experience characterizing the needs of women with OvCa across the disease trajectory. 
+I am a PhD student of Information Science at University of Pittsburgh. My research interests include Natural Language Processing, Machine Learning, Knowledge Representation, and their applications in Health Informatics. My advisor is [Daqing He](http://www.pitt.edu/~dah44//), the director of Information Retrieval, Integration and Synthesis ([iRiS](http://crystal.exp.sis.pitt.edu:8080/iris/)) lab.

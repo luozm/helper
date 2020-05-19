@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "HELPeR"
-subtitle = "Health e-Librarian with Personalized Recommender (HELPeR)"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,6 +50,4 @@ subtitle = "Health e-Librarian with Personalized Recommender (HELPeR)"
  css_class = ""
 +++
 
-Welcome to the **HELPeR**!
-
-This website is the official project site for NIH fund project “Development and Implementation of a Health e-Librarian with Personalized Recommender (HELPeR)”.
+Welcome to the **HELPeR** (Health e-Librarian with Personalized Recommender)!
