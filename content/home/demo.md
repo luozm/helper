@@ -52,8 +52,4 @@ subtitle = "Health e-Librarian with Personalized Recommender (HELPeR)"
 
 Welcome to the **HELPeR**!
 
-This website is the official project site for NIH fund project “Development and Implementation of a Health e-Librarian with Personalized Recommender (HELPeR)”. This is a collaborative project between the School of Nursing and the School of Computing and Information. 
-
-**The overall goal of this proposal is to build and implement a “Health E-Librarian with Personalized Recommendations (HELPeR)” - a personalized information access system with a hybrid recommender engine that adapts to individual aspects of the patient.** This would be the first implementation of a patientcentered system that can serve as a virtual health librarian. The HELPeR recommender engine is innovative in its capacity to integrate three dimensions of an individual patient (i.e., information needs based on the user’s profile, the user’s unique expressed information interests, and the level of user’s disease-related knowledge) to direct patients to highly personalized sets of information, that are high quality, trustworthy, and appropriate for each patient’s knowledge level. As patients select, manage and organize the recommended information, the engine’s capacity for personalization is continuously refined and improved. 
-
-We have selected ovarian cancer (OvCa) as our initial population as it represents a complex disease with multiple tumor types and a range of prognoses, requiring personalized treatments and supportive care needs that evolve over time. Our team has over 15 years of experience characterizing the needs of women with OvCa across the disease trajectory. 
+This website is the official project site for NIH fund project “Development and Implementation of a Health e-Librarian with Personalized Recommender (HELPeR)”.

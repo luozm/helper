@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: HELPeR
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Health e-Librarian with Personalized Recommender
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Pittsburgh
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Health e-Librarian with Personalized Recommender.
 
 interests:
 - Artificial Intelligence
@@ -27,15 +27,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: School of Nursing
+    institution: University of Pittsburgh
+  - course: School of Computing and Information
+    institution: University of Pittsburgh
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +40,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,10 +53,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**The overall goal of this proposal is to build and implement a “Health E-Librarian with Personalized Recommendations (HELPeR)” - a personalized information access system with a hybrid recommender engine that adapts to individual aspects of the patient.** This would be the first implementation of a patientcentered system that can serve as a virtual health librarian. The HELPeR recommender engine is innovative in its capacity to integrate three dimensions of an individual patient (i.e., information needs based on the user’s profile, the user’s unique expressed information interests, and the level of user’s disease-related knowledge) to direct patients to highly personalized sets of information, that are high quality, trustworthy, and appropriate for each patient’s knowledge level. As patients select, manage and organize the recommended information, the engine’s capacity for personalization is continuously refined and improved. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+We have selected ovarian cancer (OvCa) as our initial population as it represents a complex disease with multiple tumor types and a range of prognoses, requiring personalized treatments and supportive care needs that evolve over time. Our team has over 15 years of experience characterizing the needs of women with OvCa across the disease trajectory. 
