@@ -8,6 +8,7 @@ authors:
 
 # Is this the primary user of the site?
 superuser: true
+avatar_shape: square
 
 # Role/position
 role: Health e-Librarian with Personalized Recommender

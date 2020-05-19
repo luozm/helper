@@ -46,3 +46,5 @@ email: ""
 user_groups:
 - Professors
 ---
+
+Peter Brusilovsky is a Professor of Information Science and Intelligent Systems at the University of Pittsburgh, where he directs Personalized Adaptive Web Systems (PAWS) lab. Peter has been working in the field of adaptive, user modeling, and intelligent user interfaces for over 30 years. He published numerous papers and edited several books on adaptive hypermedia and the adaptive Web. He was holding visiting faculty appointments at the Moscow State University (Russia), Sussex University (UK), Tokyo Denki University (Japan), University of Trier (Germany), Free University of Bolzano (Italy), National College of Ireland, and Carnegie Mellon University. Peter served as President of User Modeling Inc., a professional association of user modeling researchers, the Editor-in-Chief of IEEE Transactions on Learning Technologies, and a program chair for several conferences including RecSys 2019. He is currently serving as a Chair of ACM SIGWEB and a board member of several journals including User Modeling and User Adapted Interaction, ACM Transactions on Social Competing and International Journal of AI in Education.
