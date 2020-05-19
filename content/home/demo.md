@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **HELPeR** (Health e-Librarian with Personalized Recommender)!
+Welcome to the **HELPeR** (Health e-Librarian with Personalized Recommender)! This website is the official project site for NIH fund project “Development and Implementation of a Health e-Librarian with Personalized Recommender (HELPeR)”. 
