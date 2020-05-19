@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 35  # Order that this section will appear.
 
 title = "Call for participation"
 
@@ -45,4 +45,4 @@ hero_media = "hero-academic.png"
 
 **We need your participation to improve our system!**
 
-Build **Anything** with Widgets
+Contact us **below** for more details.
