@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "user-md"
+  icon_pack = "fas"
   name = "Aim One"
   description = "Define user needs, preferences, and expectations for personalized health information."
   
