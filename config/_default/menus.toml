@@ -14,7 +14,7 @@
   weight = 30
 
 [[main]]
-  name = "Call"
+  name = "Call for Participants"
   url = "call/"
   weight = 40
 

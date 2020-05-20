@@ -50,9 +50,8 @@ If you or a family member has been diagnosed with ovarian cancer, we would like 
 * You will be asked to participate in an interview that will take no more than 1 hour. The interview will be scheduled at a convenient time for you and could be done in person, over the telephone or by video meeting.
 * Your decision about whether to participate in this study will not have any impact on your usual care. 
 
-You may be eligible for this study if:
-
 {{% alert note %}}
+You may be eligible for this study if:
 * You are 18 years or older
 * You or a family member have been diagnosed with ovarian cancer 
 * You have access to a computer and the Internet
@@ -61,4 +60,4 @@ You may be eligible for this study if:
 There is no cost to you for participating.
 * Compensation ($50) will be provided.
 
-** Please call (412) 496-8268 or Email: helper@pitt.edu for more information to participate. **
+**Please call (412) 496-8268 or Email: helper@pitt.edu for more information to participate.**
