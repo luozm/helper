@@ -1,5 +1,5 @@
 +++
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
@@ -36,8 +36,13 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["10px", "0", "0", "0"]
 
+[cta]
+  url = "{{< ref "other/index.md" >}}"
+  label = "How to participant"
+  icon_pack = "fas"
+  icon = "sign-in-alt"
 [advanced]
  # Custom CSS. 
  css_style = ""
@@ -46,6 +51,6 @@ subtitle = ""
  css_class = ""
 +++
 
-As the Internet has become a prominent source of health information to guide patients’ decision-making and self-management activities, patients strongly indicate they need navigational support to locate appropriate information on the Internet. The overall goal of our project is to build and implement a **“Health E-Librarian with Personalized Recommendations (HELPeR)”**, a personalized digital librarian that provides individualized, reliable online information relevant to the patient’s needs, interest and knowledge across the disease trajectory. As a first step, we are now looking for participants who can help us to better understand the information needs and preferences of women with ovarian cancer and their family members. [**How to participant**]({{< ref "other/index.md" >}})
+As the Internet has become a prominent source of health information to guide patients’ decision-making and self-management activities, patients strongly indicate they need navigational support to locate appropriate information on the Internet. The overall goal of our project is to build and implement a **“Health E-Librarian with Personalized Recommendations (HELPeR)”**, a personalized digital librarian that provides individualized, reliable online information relevant to the patient’s needs, interest and knowledge across the disease trajectory. As a first step, we are now looking for participants who can help us to better understand the information needs and preferences of women with ovarian cancer and their family members.
 
 This study is funded by the **National Library of Medicine** (1R01LM013038-01A1).
