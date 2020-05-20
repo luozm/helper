@@ -39,7 +39,7 @@ subtitle = ""
   padding = ["10px", "0", "0", "0"]
 
 [cta]
-  url = "{{< ref "other/index.md" >}}"
+  url = "other/"
   label = "How to participant"
   icon_pack = "fas"
   icon = "sign-in-alt"
