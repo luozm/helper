@@ -7,6 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Studies in health technology and informatics*"
-url_pdf: "http://europepmc.org/abstract/MED/27332415"
+url: "http://europepmc.org/abstract/MED/27332415"
 ---
 
