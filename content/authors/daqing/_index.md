@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor in Information Science
+role: Co-Principal Investigators, Professor in Information Science
 
 # Organizations/Affiliations
 organizations:
@@ -49,7 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-Principal Investigators
+- Principal Investigators
 ---
 
 I am a Professor at the School of Information Sciences (iSchool) , the University of Pittsburgh. I also have academic affiliation with the Intelligent Systems Program, an interdisciplinary academic unit focusing on research and education on Artificial Intelligence. I am the director of a research lab called Information Retrieval, Integration and Synthesis. I was the chair of SIS Council, the governing body for the iSchool, between 2012 and 2014. I currently serve on the editorial board of SCI/SSCI indexed journals “Information Processing and Management”, “Internet Research” and “Aslib Journal of Information Management”.
