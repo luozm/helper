@@ -6,6 +6,11 @@ authors: ["Hyeju Jang", "youngji", "Giuseppe Carenini", "Raymond Ng", "Grace Cam
 publication_types: ["1"]
 abstract: "Social media is an important source to learn the concerns and needs of patients and caregivers in home care settings. However, manually identifying their needs can be labor-intensive and time-consuming. In this paper, we address the problem of need detection, automatically identifying patient needs in text. We explore both neural and traditional machine learning approaches, and evaluate them on a newly annotated dataset in an ovarian cancer discussion forum. We discuss issues and challenges of this novel task."
 featured: false
-publication: "Advances in Artificial Intelligence"
+publication: "*Advances in Artificial Intelligence*"
+doi: "10.1007/978-3-030-18305-9_50"
+links:
+- name: Link
+  url: https://link.springer.com/chapter/10.1007/978-3-030-18305-9_50
+
 ---
 

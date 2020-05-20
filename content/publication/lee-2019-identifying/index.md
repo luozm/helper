@@ -6,6 +6,8 @@ authors: ["youngji", "Hyeju Jang", "Grace Campbell", "Giuseppe Carenini", "Teres
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "ONS 44th Annual Congress"
+publication: "*ONS 44th Annual Congress*"
+links:
+- name: Link
+  url: https://ons.confex.com/ons/2019/meetingapp.cgi/Paper/5674
 ---
-
