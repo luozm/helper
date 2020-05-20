@@ -14,16 +14,13 @@ role: PhD student in Information Science
 
 # Organizations/Affiliations
 organizations:
-- name: University of Pittsburgh
+- name: School of Computing and Information, University of Pittsburgh
   url: "http://sci.pitt.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Natural Language Processing
-- Knowledge Representation
-- Machine Learning in Health Informatics
 
 education:
 
@@ -32,6 +29,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: http://pitt.edu/~kmt81/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:k.thaker@pitt.edu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -45,6 +48,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD Students
 ---
 
+My research focuses on improving student models for Adaptive Tutors and MOOCs. Specifically I look at techniques for automatic extraction, representation and relation mining of Knowledge Components (also known as Knowledge Units or Concepts ) in Student Models like Bayesian Knowledge Tracing, Additive Factor Model and Performance Factor Analysis. In my recent work, I tried to improve student models by infering better student knowledge state through student reading behaviour. Currently I am working on improving concept representations using external knowledge graphs to obtain concepts that can help better adaptive interfaces in online courses, books and MOOCs.
+
+My vision is to contribute to research in Education Technology by efficient use of Artificial Intelligence. I love exploring new possibilities in Natural Language Processing and Information Retrieval.

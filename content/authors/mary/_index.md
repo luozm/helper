@@ -1,26 +1,29 @@
 ---
 # Display name
-title: Daqing He
+title: Mary Lou Klem
 
 # Username (this should match the folder name)
 authors:
-- daqing
+- mary
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor in Information Science
+role: Assistant Director/Advanced Information Support and Engagement Initiatives
 
 # Organizations/Affiliations
 organizations:
-- name: School of Computing and Information, University of Pittsburgh
-  url: "http://sci.pitt.edu/"
+- name: Health Sciences Library System, University of Pittsburgh
+  url: "https://www.hsls.pitt.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
+- Systematic literature reviews
+- User instruction and education
+- Evidence based practice
 
 education:
 
@@ -32,10 +35,10 @@ education:
 social:
 - icon: home
   icon_pack: fas
-  link: http://www.pitt.edu/~dah44/
+  link: https://www.hsls.pitt.edu/staff/mary-lou-klem
 - icon: envelope
   icon_pack: fas
-  link: mailto:dah44@pitt.edu
+  link: mailto:klem@pitt.edu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -49,7 +52,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-Principal Investigators
+- Co-Investigators
 ---
-
-I am a Professor at the School of Information Sciences (iSchool) , the University of Pittsburgh. I also have academic affiliation with the Intelligent Systems Program, an interdisciplinary academic unit focusing on research and education on Artificial Intelligence. I am the director of a research lab called Information Retrieval, Integration and Synthesis. I was the chair of SIS Council, the governing body for the iSchool, between 2012 and 2014. I currently serve on the editorial board of SCI/SSCI indexed journals “Information Processing and Management”, “Internet Research” and “Aslib Journal of Information Management”.

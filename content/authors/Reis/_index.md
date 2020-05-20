@@ -1,21 +1,19 @@
 ---
 # Display name
-title: Daqing He
+title: Heidi Reis
 
 # Username (this should match the folder name)
 authors:
-- daqing
+- reis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor in Information Science
+role:
 
 # Organizations/Affiliations
 organizations:
-- name: School of Computing and Information, University of Pittsburgh
-  url: "http://sci.pitt.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -30,12 +28,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: home
-  icon_pack: fas
-  link: http://www.pitt.edu/~dah44/
-- icon: envelope
-  icon_pack: fas
-  link: mailto:dah44@pitt.edu
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -49,7 +42,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Co-Principal Investigators
+- Masters' Students
 ---
 
-I am a Professor at the School of Information Sciences (iSchool) , the University of Pittsburgh. I also have academic affiliation with the Intelligent Systems Program, an interdisciplinary academic unit focusing on research and education on Artificial Intelligence. I am the director of a research lab called Information Retrieval, Integration and Synthesis. I was the chair of SIS Council, the governing body for the iSchool, between 2012 and 2014. I currently serve on the editorial board of SCI/SSCI indexed journals “Information Processing and Management”, “Internet Research” and “Aslib Journal of Information Management”.

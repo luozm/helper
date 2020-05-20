@@ -14,8 +14,8 @@ role: PhD student in Nursing
 
 # Organizations/Affiliations
 organizations:
-- name: University of Pittsburgh
-  url: "http://sci.pitt.edu/"
+- name: School of Nursing, University of Pittsburgh
+  url: "https://www.nursing.pitt.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -30,7 +30,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/vivian-hui-4a25b1154/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:chh168@pitt.edu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -44,7 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD Students
 ---
 
 A devoted and compassionate nursing graduate with multifaceted hands-on internship experience and outstanding interpersonal skills, aspired to inspire and contribute to global health nursing, creating a violence-free and harmonious community. 

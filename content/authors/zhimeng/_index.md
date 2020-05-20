@@ -14,7 +14,7 @@ role: PhD student in Information Science
 
 # Organizations/Affiliations
 organizations:
-- name: University of Pittsburgh
+- name: School of Computing and Information, University of Pittsburgh
   url: "http://sci.pitt.edu/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,6 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: https://luozm.me/
 - icon: envelope
   icon_pack: fas
   link: mailto:zhl123@pitt.edu  # For a direct email link, use "mailto:test@example.org".
@@ -55,6 +58,7 @@ social:
   icon_pack: fab
   link: https://github.com/luozm
 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +71,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD Students
 ---
 
 I am a PhD student of Information Science at University of Pittsburgh. My research interests include Natural Language Processing, Machine Learning, Knowledge Representation, and their applications in Health Informatics. My advisor is [Daqing He](http://www.pitt.edu/~dah44//), the director of Information Retrieval, Integration and Synthesis ([iRiS](http://crystal.exp.sis.pitt.edu:8080/iris/)) lab.
