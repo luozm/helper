@@ -10,12 +10,12 @@
 
 [[main]]
   name = "People"
-  url = "#people"
+  url = "people/"
   weight = 30
 
 [[main]]
   name = "Call"
-  url = "#hero"
+  url = "other/"
   weight = 40
 
 [[main]]
