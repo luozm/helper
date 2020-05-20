@@ -2,7 +2,7 @@
 title: "Knowledge-based content linking for online textbooks"
 date: 2016-01-01
 publishDate: 2020-05-20T14:44:01.337771Z
-authors: ["Rui Meng", "Shuguang Han", "Yun Huang", "Daqing He", "Peter Brusilovsky"]
+authors: ["Rui Meng", "Shuguang Han", "Yun Huang", "daqing", "peter"]
 publication_types: ["1"]
 abstract: ""
 featured: false

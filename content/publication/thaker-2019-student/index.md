@@ -2,7 +2,7 @@
 title: "Student Modeling with Automatic Knowledge Component Extraction for Adaptive Textbooks"
 date: 2019-01-01
 publishDate: 2020-05-20T14:53:18.279332Z
-authors: ["Khushboo Thaker", "Peter Brusilovsky", "Daqing He"]
+authors: ["khushboo", "peter", "daqing"]
 publication_types: ["1"]
 abstract: ""
 featured: false

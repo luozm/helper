@@ -2,7 +2,7 @@
 title: "Deep Keyphrase Generation"
 date: 2017-01-01
 publishDate: 2020-05-20T14:53:07.740190Z
-authors: ["Rui Meng", "Sanqiang Zhao", "Shuguang Han", "Daqing He", "Peter Brusilovsky", "Yu Chi"]
+authors: ["Rui Meng", "Sanqiang Zhao", "Shuguang Han", "daqing", "peter", "yu"]
 publication_types: ["1"]
 abstract: ""
 featured: false
