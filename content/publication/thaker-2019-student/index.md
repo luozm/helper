@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Proceedings of First Workshop on Intelligent Textbooks at 20th International Conference on Artificial Intelligence in Education (AIED 2019)*"
+url_pdf: "http://ceur-ws.org/Vol-2384/paper10.pdf"
 ---
 
