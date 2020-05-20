@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Our Aims"
+title = ""
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,7 +17,7 @@ subtitle = ""
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["10px", "0", "10px", "0"]
-  
+
 [[feature]]
   icon = "user-md"
   icon_pack = "fas"
