@@ -18,9 +18,15 @@ organizations:
   url: "http://sci.pitt.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: The goal of my research aims to advance people’s capabilities of accessing online information with the support of various cutting-edge intelligent and social information technologies.
 
 interests:
+- information retrieval (monolingual and multilingual)
+- information access on the social web
+- adaptive web systems and user modeling
+- interactive retrieval interface design
+- web log mining and analysis
+- research data management
 
 education:
 
