@@ -34,7 +34,7 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Aim Three"
-  description = "Conduct a field trial with OvCa patients to determine the acceptability and value of HELPeR in a real-world setting."
+  description = "Conduct a field trial with ovarian patients to determine the acceptability and value of HELPeR in a real-world setting."
 
 # Uncomment to use emoji icons.
 # [[feature]]
