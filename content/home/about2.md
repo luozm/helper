@@ -45,9 +45,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
 As the Internet has become a prominent source of health information to guide patients’ decision-making and self-management activities, patients strongly indicate they need navigational support to locate appropriate information on the Internet. The overall goal of our project is to build and implement a **“Health E-Librarian with Personalized Recommendations (HELPeR)”**, a personalized digital librarian that provides individualized, reliable online information relevant to the patient’s needs, interest and knowledge across the disease trajectory. As a first step, we are now looking for participants who can help us to better understand the information needs and preferences of women with ovarian cancer and their family members.
 
 [{{< icon name="sign-in-alt" pack="fas" >}} Help Us Now!]({{< ref "other/index.md" >}})
 
-This study is funded by the **National Library of Medicine** (1R01LM013038-01A1).
+This is a collaborative project between the [School of Nursing](https://www.nursing.pitt.edu/) and the [School of Computing and Information](http://sci.pitt.edu/), [University of Pittsburgh](https://www.pitt.edu/). This study is funded by the **National Library of Medicine** (1R01LM013038-01A1).

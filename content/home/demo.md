@@ -48,6 +48,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ # This website is the official project site for NIH fund project “Development and Implementation of a Health e-Librarian with Personalized Recommender (HELPeR)”. 
 +++
 
-Welcome to the **HELPeR** (Health e-Librarian with Personalized Recommender)! This website is the official project site for NIH fund project “Development and Implementation of a Health e-Librarian with Personalized Recommender (HELPeR)”. 
+Welcome to the **Health e-Librarian with Personalized Recommender (HELPeR)**!
